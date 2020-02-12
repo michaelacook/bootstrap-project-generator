@@ -4,7 +4,7 @@
   "description": "A commandline tool to quickly generate a bootstrap project with boilerplate.",
   "main": "index.js",
   "bin": {
-    "bootstrap-project-generator": "index.js"
+    "bootstrap-project-generator": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,8 @@
   "keywords": [
     "bootstrap",
     "generator",
-    "node"
+    "node", 
+    "CLI"
   ],
   "author": "Michael A. Cook",
   "license": "MIT",
