@@ -17,7 +17,13 @@ A simple commandline tool to generate a basic html bootstrap project with some b
 Bootstrap Project Generator sets up the bare basic HTML, CSS and JavaScript files and folders and writes basic boilerplate to get you up and running with a header navbar and sticky footer. `index.html` contains the Bootstrap CDN links, links to other generated files. 
 
 ## Installing 
-To install, clone the repo to your preferred location: 
+To install, run
+
+```
+$ npm install bootstrap-project-generator
+```
+
+or clone the repo to your preferred location: 
 
 ```$ git clone https://github.com/michaelacook/bootstrap-project-generator.git```
 
