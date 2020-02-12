@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-project-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A commandline tool to quickly generate a bootstrap project with boilerplate.",
   "main": "index.js",
   "bin": {
@@ -16,7 +16,7 @@
   "keywords": [
     "bootstrap",
     "generator",
-    "node", 
+    "node",
     "CLI"
   ],
   "author": "Michael A. Cook",
