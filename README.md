@@ -1,5 +1,5 @@
 # Bootstrap Project Generator 
-A simple commandline tool to generate a basic html bootstrap project with some basic boilerplate. It is perfect for small projects where you want to demo an idea, build a simple prototype, etc. Comes complete with a basic header navbar and sticky footer. At the moment still a work in progress. Soon will include exception handling and will be available on npm.
+A simple commandline tool to generate a basic html bootstrap project with some basic boilerplate. It is perfect for small projects where you want to demo an idea, build a simple prototype, etc. Comes complete with a basic header navbar and sticky footer. At the moment still a work in progress. Soon will be published on npm.
 
 ## Project contents 
 
@@ -32,7 +32,7 @@ To set up a project, create the root directory for your project and inside your 
 $ bootstrap-project-generator
 ```
 
-...And you're done! 
+...and you're done! 
 
 ## License
 This project is licensed under the MIT license. Do whatever you feel like with it :).
