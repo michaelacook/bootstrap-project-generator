@@ -19,7 +19,7 @@ Bootstrap Project Generator sets up the bare basic HTML, CSS and JavaScript file
 To install, run:
 
 ```
-$ npm install bootstrap-project-generator
+$ npm install bootstrap-project-generator -g
 ```
 
 or clone the repo to your preferred location: 
