@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-project-generator",
+  "version": "1.0.0",
+  "description": "A commandline tool to quickly generate a bootstrap project with boilerplate.",
+  "main": "index.js",
+  "bin": {
+    "bootstrap-project-generator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelacook/bootstrap-project-starter.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "generator",
+    "node"
+  ],
+  "author": "Michael A. Cook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelacook/bootstrap-project-starter/issues"
+  },
+  "homepage": "https://github.com/michaelacook/bootstrap-project-starter#readme"
+}
