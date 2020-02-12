@@ -5,7 +5,11 @@ const fs = require('fs');
  * @param {String} dirName - name of directory 
  */
 const makeDir = (dirName) => {
-    fs.mkdirSync(dirName, {});
+    try {
+        fs.mkdirSync(dirName, {});
+    } catch (err) {
+        console.log('Failed.', err.name, err.message);
+    }
 }
 
 
@@ -15,7 +19,11 @@ const makeDir = (dirName) => {
  * @param {String} content - data to be written to file
  */
 const writeFile = (path, content) => {
-    fs.writeFileSync(path, content, 'UTF-8');
+    try {
+        fs.writeFileSync(path, content, 'UTF-8');
+    } catch (err) {
+        console.log('Failed.', err.name, err.message);
+    }
 }
 
 
