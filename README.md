@@ -13,7 +13,7 @@ Directory structure:
     └── app.js
 ```
 
-Bootstrap Project Generator sets up HTML, CSS and JavaScript files and folders and writes basic boilerplate to get you up and running with a header navbar and sticky footer. `index.html` contains the Bootstrap CDN links, links to other generated files. 
+Bootstrap Project Generator sets up html, css and JavaScript files and folders and writes basic boilerplate to get you up and running with a header navbar and sticky footer. `index.html` contains the Bootstrap CDN links and links to other generated files. 
 
 ## Installing 
 To install, run:
@@ -23,7 +23,7 @@ $ npm install bootstrap-project-generator -g
 ```
 
 ## Setting up a project 
-To set up a project, create the root directory for your project and inside your project folder run
+To set up a project, create the root directory for your project and inside your project folder run:
 
 ```$ 
 $ bootstrap-project-generator
