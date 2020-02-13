@@ -1,3 +1,5 @@
+// data for generating dirs and file contents
+
 module.exports = {
     dirs: [
       "./css",
